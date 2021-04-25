@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "ModuleRecompiler",
+	"Description": "Provides a single button to force recompilation of the selected list of modules",
+	"Category": "EditorHelpers",
+	"CreatedBy": "n4nn31355",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "ModuleRecompiler",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
