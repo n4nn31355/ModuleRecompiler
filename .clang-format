@@ -1,0 +1,7 @@
+---
+BasedOnStyle: Mozilla
+---
+Language: Cpp
+AlignAfterOpenBracket: AlwaysBreak
+AlignOperands: AlignAfterOperator
+BreakBeforeBinaryOperators: NonAssignment
